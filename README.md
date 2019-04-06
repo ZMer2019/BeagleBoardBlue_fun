@@ -2,8 +2,8 @@
 My funny working
 
 # Step 1 系统更新
-* 从https://beagleboard.org/latest-images下载最新的系统镜像，我下在的是Debian 9.5 2018-10-07 4GB SD IoT(without graphical desktop)
-* 下载并安装Etcher（https://www.balena.io/etcher/）
+* 从https://beagleboard.org/latest-images 下载最新的系统镜像，我下在的是Debian 9.5 2018-10-07 4GB SD IoT(without graphical desktop)
+* 下载并安装Etcher（https://www.balena.io/etcher/ ）
 * 通过Etcher将镜像写入到大于4GB的TF卡中
 * 将TF卡插入到beagleboard的TF卡槽中，上电即可进入系统
 * 暂时我未将系统写入到板载eMMC中。
